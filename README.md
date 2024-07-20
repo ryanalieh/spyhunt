@@ -130,6 +130,5 @@ python3 spyhunt.py -hh domains.txt
 Directory Brute Forcing
 ```
 python3 spyhunt.py --directorybrute domain.com --wordlist list.txt --threads 50
-
-
+```
 made with 💟
